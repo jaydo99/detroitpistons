@@ -1,0 +1,31 @@
+.main-nav {
+    display: flex;
+padding-top: 2%;
+position: fixed;
+
+    
+}
+
+.nav-logo {
+    width: 25%;
+    
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 40%;
+    min-width: 50%;
+    padding-top: 2%;
+    
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+#logo {
+    width: 50%;
+}

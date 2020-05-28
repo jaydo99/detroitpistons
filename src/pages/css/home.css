@@ -1,0 +1,59 @@
+body{
+    background-color: #1D428A;
+    
+}
+
+
+#cover {
+   
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    
+}
+
+.meet-team-preview {
+    width: 100%;
+    display: flex;
+    padding-top: 20%;
+    
+    padding-right: 5%;
+}
+
+#img1 {
+    width: 70%;
+}
+
+#img2 {
+    width: 40%;
+}
+
+.history-preview {
+    width: 100%;
+    display: flex;
+    padding-top: 20%;
+    
+    padding-right: 5%;
+}
+
+#img3 {
+width: 40%;
+}
+
+.schedule-preview {
+    width: 100%;
+    display: flex;
+    padding-top: 20%;
+    padding-right: 5%;
+}
+
+.merch-preview {
+    width: 100%;
+    display: flex;
+    padding-top: 20%;
+    padding-right: 5%;
+}
+
+#img4 {
+    width: 50%;
+}
