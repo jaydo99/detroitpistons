@@ -1,0 +1,8 @@
+.teamintro{
+    width: 100%;
+    display: flex;
+}
+
+#rose {
+    width: 25%;
+}

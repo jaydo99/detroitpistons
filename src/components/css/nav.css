@@ -1,13 +1,17 @@
 .main-nav {
-    display: flex;
+display: flex;
+justify-content: space-evenly;
 padding-top: 2%;
 position: fixed;
+width: 90%;
+
 
     
 }
 
-.nav-logo {
-    width: 25%;
+.logo {
+    
+    padding-left: 10%;
     
 }
 
@@ -15,9 +19,10 @@ position: fixed;
 nav {
     display: flex;
     justify-content: space-evenly;
-    padding-left: 40%;
+    padding-left: 30%;
     min-width: 50%;
     padding-top: 2%;
+ 
     
 }
 
