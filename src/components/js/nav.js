@@ -13,9 +13,9 @@ export default function Nav() {
     
          </div>
           <nav>
-         <Link to ="team" className="nav-link">Meet the Team</Link>
-          <Link to ="Schedule" className="nav-link">Upcoming Games</Link>
-          <Link to ="https://www.nbastore.co.nz/stores/nba/en/c/shop-by-team/eastern/detroit-pistons" className="nav-link">Merchandise</Link>
+         <Link to ="team" className="nav-link">MEET THE TEAM</Link>
+          <Link to ="Schedule" className="nav-link">UPCOMING GAMES</Link>
+          <a href= "https://pistonslockerroomstore.com/" className="nbastore"> MERCHANDISE </a>
           
          </nav>
 

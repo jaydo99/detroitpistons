@@ -1,0 +1,75 @@
+.schedule-body {
+padding-top: 8%;
+width: 100%;
+padding-left: 0%;
+padding-right: 0;
+margin-left: 0%;
+margin-right: 0%;
+}
+ 
+
+.fixture1 {
+    display: flex;
+    background-color: whitesmoke;
+    justify-content: space-evenly;
+    padding-top: 1%;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: grey;
+}
+
+#fixturelogo {
+    width: 35%;
+}
+
+#pistonslogo {
+    width: 35%;
+    
+}
+
+#magiclogo {
+    width: 50%;
+}
+
+#gswlogo {
+    width:30%;
+}
+
+#lakerslogo {
+    width: 55%;;
+}
+
+#buckslogo{
+    width: 30%;
+}
+
+#blazerslogo {
+    width: 40%;
+}
+
+.game-details {
+    text-align: center;
+    line-height: 80%;
+    width: 30%;
+    
+}
+
+.game-details h1 {
+    font-size: 200%;
+}
+
+.game-details h2 {
+    font-size: 100%;
+    color: grey;
+}
+
+.game-details h3 {
+    font-size: 70%;
+}
+
+.team-section {
+    width: 20%;
+    text-align: center;
+    justify-content: center;
+   
+}
