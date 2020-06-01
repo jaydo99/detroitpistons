@@ -16,9 +16,15 @@ export default function myk () {
            <br></br>
            <h2>small foward</h2>
            <br></br>
-           <br></br>
-           <br></br>
-           <Link to ="griffin" className="next-player">NEXT</Link>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+           <Link to ="griffin" className="next-player">NEXT PLAYER ></Link>
            
  
          </div>

@@ -83,3 +83,52 @@ h2 {
     border-width: thin;
     padding: 1%;
 }
+
+@media (max-width: 796px){
+    .meet-team-preview {
+        display: flex;
+        flex-direction: column;
+        align-items: right;
+        padding-left: 5%;
+        
+    }
+.container1{
+
+padding-left: 5%;
+padding-right: 5%;
+}
+
+.container2 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+       
+.schedule-preview {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-left: 0%;
+   
+    
+}
+
+.merch-preview {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: 90%;
+    padding-top: 0%;
+   
+    
+}
+
+#img1 {
+    opacity: 0%;
+}
+#img3 {
+    opacity: 0%;
+}
+#img4 {
+    opacity: 0%;
+}
+}

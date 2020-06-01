@@ -18,9 +18,15 @@ export default function griffin() {
            <br></br>
            <h2>power foward</h2>
            <br></br>
-           <br></br>
-           <br></br>
-           <Link to ="martin" className="next-player">NEXT</Link>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+           <Link to ="martin" className="next-player">NEXT PLAYER ></Link>
            
            
  

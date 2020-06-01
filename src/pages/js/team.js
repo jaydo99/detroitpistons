@@ -18,11 +18,19 @@ export default function team() {
           <h1>DERRICK </h1>  
           <h1>ROSE</h1>
           <br></br>
+          <br></br>
+          <br></br>
           <h2>point guard</h2>
           <br></br>
           <br></br>
           <br></br>
-          <Link to ="kennard" className="next-player">NEXT</Link>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          
+        
+          <Link to ="kennard" className="next-player">NEXT PLAYER ></Link>
           
 
         </div>

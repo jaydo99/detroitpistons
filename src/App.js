@@ -23,9 +23,10 @@ function App() {
   return (
     
     <div className="App">
+      
       <Router>
       <Nav/>
-      <home/>
+      
       <Route path="/home" component={home}/>
       <Route path="/team" component={team}/>
       <Route path="/schedule" component={schedule}/>
@@ -36,7 +37,7 @@ function App() {
 
     </Router>
      
-     
+     <home/>
      
     
 

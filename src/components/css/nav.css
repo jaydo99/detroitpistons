@@ -44,3 +44,16 @@ nav {
     text-decoration: none;
     color: white;
 }
+
+@media (max-width: 796px){
+    
+.main-nav {
+    font-size: 5%;
+    width: 67%;
+    font-weight: 500;
+    
+
+}
+
+
+}

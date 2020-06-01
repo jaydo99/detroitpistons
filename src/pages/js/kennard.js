@@ -16,9 +16,15 @@ export default function kennard() {
            <br></br>
            <h2>shooting guard</h2>
            <br></br>
-           <br></br>
-           <br></br>
-           <Link to ="myk" className="next-player">NEXT</Link>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+           <Link to ="myk" className="next-player">NEXT PLAYER></Link>
            
  
          </div>

@@ -54,6 +54,8 @@ margin-right: 0%;
     
 }
 
+
+
 .game-details h1 {
     font-size: 200%;
 }
@@ -73,3 +75,30 @@ margin-right: 0%;
     justify-content: center;
    
 }
+
+@media (max-width: 1200px){
+ .game-details{
+  
+     font-size: 60%;
+ }
+
+    }
+
+    @media (max-width: 796px){
+        .game-details{
+         
+            font-size: 40%;
+            padding-top: 5%;
+            line-height: 200%;
+        }
+
+        .fixture1 {
+            padding-top: 10%;
+        }
+
+        .main-nav {
+            padding-bottom: 0%;
+        }
+
+       
+           }
